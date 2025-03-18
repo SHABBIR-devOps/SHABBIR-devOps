@@ -60,4 +60,4 @@
 
 ---
 
-🔥 **Don't forget to star my repositories if you find them useful!**
+🔥 **Don't forget to star my repositories if you find them useful!** 🚀
