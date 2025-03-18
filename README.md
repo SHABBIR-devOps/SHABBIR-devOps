@@ -1,21 +1,21 @@
-### Welcome to Shabbir's Code Realm! 🚀
+### Welcome to Shabbir's Code Magic! ✨
 
-![Profile Banner](https://via.placeholder.com/1200x400.png?text=Shabbir's+Code+Realm)
-
----
-
-##  Who Am I?
-
-A builder in the world of **DevOps and Web Development** | **Automation is my creative language** | **Always eager to explore new horizons**
-
--  Currently crafting **DevOps pipelines and cutting-edge web applications**
--  Delving into the latest innovations in **React.js, Firebase, and Cloud-Native technologies**
--  Feel free to chat with me about **JavaScript, React, Firebase, CSS, HTML, and anything cloud-related**
-- ⚡ Fun fact: **I thrive on automating repetitive tasks to free up time for creativity!**
+![Profile Banner](https://via.placeholder.com/1200x400.png?text=Shabbir's+Code+Magic)
 
 ---
 
-##  My Skills
+## My Code Story
+
+I'm a **DevOps & Web Developer** who loves to weave dreams with code | **Automation is my superpower** | **The thrill of learning something new always beckons**
+
+- Currently unraveling the mysteries of **DevOps pipelines and modern web applications**
+- Learning the magic of **React.js, Firebase, and Cloud-Native technologies**
+- Feel free to have a chat with me about **JavaScript, React, Firebase, CSS, HTML, and anything cloud-related**
+- ⚡ Fun fact: **I've befriended automation to escape repetitive tasks!**
+
+---
+
+## My Code Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,firebase,css,html,bootstrap,git,github,docker,aws,nodejs,tailwind" />
@@ -23,28 +23,28 @@ A builder in the world of **DevOps and Web Development** | **Automation is my cr
 
 ---
 
-##  GitHub Stats
+## GitHub Code Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHABBIR-devOps&show_icons=true&theme=vue-dark" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=SHABBIR-devOps&theme=vue-dark" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SHABBIR-devOps&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=SHABBIR-devOps&theme=radical" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHABBIR-devOps&layout=compact&theme=vue-dark" width="48%"/>
-</div>
-
----
-
-##  My Contributions
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHABBIR-devOps&theme=vue-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHABBIR-devOps&layout=compact&theme=radical" width="48%"/>
 </div>
 
 ---
 
-##  Connect With Me
+## My Code Contributions
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHABBIR-devOps&theme=radical" />
+</div>
+
+---
+
+## Code Connections
 
 <div align="center">
   <a href="https://github.com/SHABBIR-devOps" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -54,12 +54,12 @@ A builder in the world of **DevOps and Web Development** | **Automation is my cr
 
 ---
 
-##  Profile Views
+## Code Visitors
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SHABBIR-devOps&color=2596be"/>
+  <img src="https://komarev.com/ghpvc/?username=SHABBIR-devOps&color=ff69b4"/>
 </div>
 
 ---
 
- **If you appreciate my projects, consider giving them a star!** ✨
+**If you enjoyed my code magic, consider leaving a star!** 🌟
