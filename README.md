@@ -67,6 +67,6 @@ Welcome to Shabbir's Code Realm! 🚀
   <img src="https://komarev.com/ghpvc/?username=SHABBIR-devOps&color=2596be"/>
 </div>
 ---
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SHABBIR-devOps)](https://github.com/ryo-ma/github-profile-trophy)
+![Your Trophy](https://github-profile-trophy.vercel.app/?username=SHABBIR-devOps&theme=dark&column=8)
 
 🔥 **If you find my repositories useful, don't forget to give them a star!** 🚀
