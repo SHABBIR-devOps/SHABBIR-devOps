@@ -1,6 +1,7 @@
 Welcome to Shabbir's Code Realm! 🚀
 
-![Profile Banner](https://via.placeholder.com/1200x400.png?text=Shabbir's+Code+Magic)
+![Blue Modern Corporate Staff Profile LinkedIn Banner](https://github.com/user-attachments/assets/0997bdee-23da-4c6f-aa7b-0615bdcdfc8b)
+
 
 ---
 
