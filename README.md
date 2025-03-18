@@ -22,11 +22,14 @@
 
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=তোমার-ইউজারনেম&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=তোমার-ইউজারনেম&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHABBIR-devOps
+&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=SHABBIR-devOps
+&theme=radical)  
 
 ## 📌 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=তোমার-ইউজারনেম&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHABBIR-devOps
+&layout=compact&theme=radical)  
 
 
 ## 🌍 Connect with me  
@@ -37,9 +40,11 @@
 
 
 ## 🚀 Contribution Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=তোমার-ইউজারনেম&theme=radical)  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SHABBIR-devOps
+&theme=radical)  
 
 ## 👀 Profile Views  
-![Visitor Count](https://komarev.com/ghpvc/?username=তোমার-ইউজারনেম&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=SHABBIR-devOps
+&color=blue)
 
 
