@@ -40,10 +40,8 @@ I'm a **DevOps & Web Developer** who loves to weave dreams with code | **Automat
 ## My Code Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHABBIR-devOps&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHABBIR-devOps&theme=vue-dark" />
 </div>
-
----
 
 ##  Connect With Me
 
