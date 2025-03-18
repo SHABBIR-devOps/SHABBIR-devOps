@@ -26,10 +26,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHABBIR-devOps&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=SHABBIR-devOps&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SHABBIR-devOps&show_icons=true&theme=midnight-purple" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=SHABBIR-devOps&theme=tokyonight" width="48%"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHABBIR-devOps&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHABBIR-devOps&layout=compact&theme=cobalt" width="48%"/>
 </div>
 
 ---
@@ -37,7 +37,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHABBIR-devOps&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHABBIR-devOps&theme=github-dark" />
 </div>
 
 ---
@@ -45,7 +45,7 @@
 ## 🔗 Connect With Me
 
 <div align="center">
-  <a href="https://github.com/SHABBIR-devOps" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/SHABBIR-devOps" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://facebook.com/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
@@ -55,7 +55,7 @@
 ## 👀 Profile Views
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SHABBIR-devOps&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=SHABBIR-devOps&color=red"/>
 </div>
 
 ---
