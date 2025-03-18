@@ -1,4 +1,4 @@
-### Welcome to Shabbir's Code Magic! ✨
+Welcome to Shabbir's Code Realm! 🚀
 
 ![Profile Banner](https://via.placeholder.com/1200x400.png?text=Shabbir's+Code+Magic)
 
@@ -13,7 +13,7 @@ I'm a **DevOps & Web Developer** who loves to weave dreams with code | **Automat
 - Feel free to have a chat with me about **JavaScript, React, Firebase, CSS, HTML, and anything cloud-related**
 - ⚡ Fun fact: **I've befriended automation to escape repetitive tasks!**
 
----
+
 
 ## My Code Skills
 
@@ -31,8 +31,9 @@ I'm a **DevOps & Web Developer** who loves to weave dreams with code | **Automat
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHABBIR-devOps&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHABBIR-devOps&layout=compact&theme=vue-dark" width="48%"/>
 </div>
+
 
 ---
 
@@ -44,7 +45,7 @@ I'm a **DevOps & Web Developer** who loves to weave dreams with code | **Automat
 
 ---
 
-## Code Connections
+##  Connect With Me
 
 <div align="center">
   <a href="https://github.com/SHABBIR-devOps" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -54,12 +55,11 @@ I'm a **DevOps & Web Developer** who loves to weave dreams with code | **Automat
 
 ---
 
-## Code Visitors
+##  Profile Views
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SHABBIR-devOps&color=ff69b4"/>
+  <img src="https://komarev.com/ghpvc/?username=SHABBIR-devOps&color=2596be"/>
 </div>
-
 ---
 
-**If you enjoyed my code magic, consider leaving a star!** 🌟
+🔥 **If you find my repositories useful, don't forget to give them a star!** 🚀
