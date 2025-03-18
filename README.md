@@ -1,17 +1,16 @@
-### Hi there, I'm Shabbir! 👋
+### Hey there, I'm Shabbir! 👋
 
-<!-- Banner Image (Customizable) -->
-![Profile Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile)
+![My Profile Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile)
 
 ---
 
 ## 🚀 About Me
-💡 Passionate **DevOps & Web Developer** | 🔧 **Automation Enthusiast** | 🎯 **Always Learning**
+💡 Passionate **DevOps & Web Developer** | 🔧 **Automation is my jam** | 🎯 **Always on the lookout to learn more**
 
-- 🔭 Currently working on **DevOps & Web Development**
-- 🌱 Exploring **React.js, Firebase, and Cloud Technologies**
-- 💬 Ask me about **JavaScript, React, Firebase, CSS, HTML, Bootstrap**
-- ⚡ Fun fact: **I love automating workflows!**
+- 🔭 Currently diving deep into **DevOps & Web Development**
+- 🌱 Exploring the world of **React.js, Firebase, and Cloud Technologies**
+- 💬 Feel free to ask me anything about **JavaScript, React, Firebase, CSS, HTML, Bootstrap**
+- ⚡ Fun fact: **I absolutely love streamlining workflows!**
 
 ---
 
@@ -33,7 +32,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHABBIR-devOps&layout=compact&theme=cobalt" width="48%"/>
 </div>
-
 
 ---
 
@@ -63,4 +61,4 @@
 
 ---
 
-🔥 **Don't forget to star my repositories if you find them useful!** 🚀
+🔥 **If you find my repositories useful, don't forget to give them a star!** 🚀
