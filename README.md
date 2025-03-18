@@ -4,14 +4,21 @@ Welcome to Shabbir's Code Realm! 🚀
 
 ---
 
-## My Code Story
 
-I'm a **DevOps & Web Developer** who loves to weave dreams with code | **Automation is my superpower** | **The thrill of learning something new always beckons**
+## 🚀 About Me
 
-- Currently unraveling the mysteries of **DevOps pipelines and modern web applications**
-- Learning the magic of **React.js, Firebase, and Cloud-Native technologies**
-- Feel free to have a chat with me about **JavaScript, React, Firebase, CSS, HTML, and anything cloud-related**
-- ⚡ Fun fact: **I've befriended automation to escape repetitive tasks!**
+💡 Passionate **DevOps & Web Developer** | 🔧 **Automation Enthusiast** | 🎯 **Always Learning**
+
+
+
+- 🔭 Currently working on **DevOps & Web Development**
+
+- 🌱 Exploring **React.js, Firebase, and Cloud Technologies**
+
+- 💬 Ask me about **JavaScript, React, Firebase, CSS, HTML, Bootstrap**
+
+- ⚡ Fun fact: **I love automating workflows!**
+
 
 
 
@@ -37,10 +44,10 @@ I'm a **DevOps & Web Developer** who loves to weave dreams with code | **Automat
 
 ---
 
-## My Code Contributions
+📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHABBIR-devOps&theme=vue-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHABBIR-devOps&theme=dracula" />
 </div>
 
 ##  Connect With Me
