@@ -27,7 +27,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHABBIR-devOps&show_icons=true&theme=midnight-purple" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=SHABBIR-devOps&theme=tokyonight" width="40%"/>
+  <img src="https://streak-stats.demolab.com?user=SHABBIR-devOps&theme=tokyonight" width="48%"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHABBIR-devOps&layout=compact&theme=cobalt" width="48%"/>
 </div>
@@ -60,4 +60,4 @@
 
 ---
 
-🔥 **Don't forget to star my repositories if you find them useful!** 🚀
+🔥 **Don't forget to star my repositories if you find them useful!**
